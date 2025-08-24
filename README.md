@@ -61,3 +61,9 @@ The workflow includes:
 
 <img width="831" height="451" alt="output" src="https://github.com/user-attachments/assets/81f77389-8b66-413b-8c0e-d576e726e90b" />
 
+
+## 📚 Next Steps
+- Add a drift term to ARIMA to allow non-flat forecasts
+- Ty modelling log-returns instead of raw prices
+- Experiement with alternative models (Holt-Winters, Prophet, LSTM)
+
