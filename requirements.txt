@@ -1,0 +1,7 @@
+matplotlib
+statsmodels
+scikit-learn
+seaborn
+numpy==1.26.4
+pmdarima
+yfinance
