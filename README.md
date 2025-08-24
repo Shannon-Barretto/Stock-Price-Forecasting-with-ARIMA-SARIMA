@@ -59,4 +59,5 @@ The workflow includes:
 - **SARIMA (3,1,2)(2,0,0,5)** captured some seasonal structure but still flattened over longer horizons
 - Metrics (RMSE and MAE) suggest SARIMA slightly outperformed ARIMA on this dataset
 
-  
+<img width="831" height="451" alt="output" src="https://github.com/user-attachments/assets/81f77389-8b66-413b-8c0e-d576e726e90b" />
+
